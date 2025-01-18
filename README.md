@@ -28,17 +28,19 @@ O jogo "Número Secreto" é um desafio de adivinhação onde o jogador precisa d
 
 ## Estrutura do Código 💻
 
-* `gerarNumeroAleatorio(limite)`: Gera um número aleatório entre 1 e o limite especificado, evitando repetições.
-* `exibirTextoNaTela(tag, texto)`: Exibe um texto na tela e usa a API de Web Speech para ler o texto em voz alta.
-* `botaoChutar(controle)`: Controla o estado do botão "Chutar", "Alterar Limite" e "Novo Jogo".
-* `exibirMensagemInicial()`: Exibe a mensagem inicial na tela.
-* `habilitarChute()`: Habilita o botão de chute quando o input recebe foco.
-* `limparInputs()`: Limpa o campo de entrada.
-* `inserirDepois(novo, target)`: Insere um novo elemento HTML depois de um elemento alvo.
-* `elementoAdicional(target, tipo, id, txt)`: Adiciona um elemento HTML à página ou remove um elemento existente.
-* `valorEntrada(txt)`: Obtém um valor numérico do usuário através de um prompt.
-* `reiniciarJogo()`: Reinicia o jogo.
-* `verificarChute()`: Verifica o palpite do usuário e fornece feedback.
+| Função            | Descrição                                                                                                                                                                         |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `gerarNumeroAleatorio(limite)` | Gera um número aleatório entre 1 e o limite especificado, evitando repetições.                                                                                       |
+| `exibirTextoNaTela(tag, texto)`   | Exibe um texto na tela e usa a API de Web Speech para ler o texto em voz alta.                                                                                                                                                 |
+| `botaoChutar(controle)` | Controla o estado do botão "Chutar", "Alterar Limite" e "Novo Jogo".                                                                                                            |
+| `exibirMensagemInicial()` | Exibe a mensagem inicial na tela.                                                                                                                                          |
+| `habilitarChute()`   | Habilita o botão de chute quando o input recebe foco.                                                                  |
+| `limparInputs()`   | Limpa o campo de entrada.                                                                  |
+| `inserirDepois(novo, target)`   | Insere um novo elemento HTML depois de um elemento alvo.                                                                  |
+| `elementoAdicional(target, tipo, id, txt)`   | Adiciona um elemento HTML à página ou remove um elemento existente.                                                                  |
+| `valorEntrada(txt)`   | Obtém um valor numérico do usuário através de um prompt.                                                                  |
+| `reiniciarJogo()`   | Reinicia o jogo.                                                                  |
+| `verificarChute()`   | Verifica o palpite do usuário e fornece feedback.                                                                  |
 
 ## Interface do Usuário 👀
 
