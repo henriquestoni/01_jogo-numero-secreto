@@ -77,11 +77,11 @@ Sinta-se à vontade para contribuir com o projeto\! Você pode:
 
 **Jogue agora mesmo\!** ✨
 
-[Clique aqui para experimentar o Jogo do Número Secreto\!](https://www.google.com/url?sa=E&source=gmail&q=https://henriquestoni.github.io/01_jogo-numero-secreto/)
+[Clique aqui para experimentar o Jogo do Número Secreto\!](https://henriquestoni.github.io/01_jogo-numero-secreto/)
 
 ## Autor ✒️
 
-  * [Toni Henriques](https://www.google.com/url?sa=E&source=gmail&q=https://www.linkedin.com/in/henriquestoni/) - [GitHub](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/henriquestoni)
+  * [Toni Henriques](https://www.linkedin.com/in/henriquestoni/) - [GitHub](https://github.com/henriquestoni)
 
 ## Licença 📄
 
