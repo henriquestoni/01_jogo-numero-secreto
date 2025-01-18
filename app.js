@@ -129,7 +129,7 @@ function reiniciarJogo(){
 }
 
 function verificarChute(){
-    let chute = parseInt(valores.value);
+    let chute = parseInt(valores.value.trim());
     
     if(chutar.getAttribute('value') == 1){
         numMax = valorEntrada('Insira um novo valor para limite máximo');
